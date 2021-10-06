@@ -1,5 +1,5 @@
 function sortIP(ipArray, isAsc) {
-	let resArr = [];
+    let resArr = [];
     let ipMapArr = [];
 
     let prepareWeightOfIp = ip => {
