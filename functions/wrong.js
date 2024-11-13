@@ -1,4 +1,3 @@
-function (a, b) {
   if (a b) {
     console.log("GCD is " + a);
     return;
